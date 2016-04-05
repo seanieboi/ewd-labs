@@ -1,5 +1,6 @@
 // Load the http module to create an http server.
 var http = require('http');
+var express = require('express');
 // Load the greeting module to provide the greeting.
 var greeting = require('./greeting');
 
